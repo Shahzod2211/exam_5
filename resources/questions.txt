@@ -1,6 +1,11 @@
 1.
-    - Thread nima?
-    - Daemon thread nima?
-    - Thread Executors turlarini yozing.
-    - Serialization bilan Deserializationning nima ?
-    - Log levellarni yozing.
+    - Thread nima? - Appda bajarilayotgan taskga mos keladi. Har bitta taskga bitta thread mos keladi. qisqacha shu
+    - Daemon thread nima? - Boshqa threadlar ishini tugatgandan keyin o'ladigan thread
+    - Thread Executors turlarini yozing. - ExecutorService, ThreadPoolExecutor, ScheduledExecutorService, Executors
+    - Serialization bilan Deserializationning nima ? - ma'lumotlarni bir farmatdan boshqa farmatga o'tkazish. bir biriga teskari jarayonlar hisoblanadi
+    - Log levellarni yozing. -INFO, FINE, FINER, FINEST, ALL, WARNING, SEVERE,...
+
+
+
+
+
